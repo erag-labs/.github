@@ -1,8 +1,6 @@
-# ERAG Technologies
-
 **Engineer • Research • Advance • Grow**
 
-ERAG Technologies builds modern developer tools, open-source software, Laravel and JavaScript packages, SaaS products, and practical solutions designed to improve developer productivity and simplify software development.
+Builds modern developer tools, open-source software, Laravel and JavaScript packages, SaaS products, and practical solutions designed to improve developer productivity and simplify software development.
 
 ## What We Build
 
