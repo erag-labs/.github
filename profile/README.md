@@ -1,4 +1,3 @@
-**Engineer • Research • Advance • Grow**
 
 Builds modern developer tools, open-source software, Laravel and JavaScript packages, SaaS products, and practical solutions designed to improve developer productivity and simplify software development.
 
