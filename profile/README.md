@@ -13,4 +13,4 @@ Builds modern developer tools, open-source software, Laravel and JavaScript pack
 ## Connect
 
 - Website: https://erag.in
-- GitHub: https://github.com/erag-technologies
+- GitHub: https://github.com/erag-labs
